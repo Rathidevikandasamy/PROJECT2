@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>position</title>
+<link rel = "sytlesheet" href="C:\Users\RATHIDEVI K\Documents\CSS HTML">
+</head>
+<body>
+<div class="static ">This is static</div>
+<div class="fixed ">This is fixed</div>
+<div class="relative ">This is relative</div>
+<div class="absolute ">This is absolute</div>
+<div class="sticky ">This is sticky</div>
+</body>
+</html>
+
+
